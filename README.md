@@ -1,2 +1,3 @@
 # CMIS-232
-CMIS 232 - Labs
+All code is written in C#
+Refer to Wiki for Lab instructions
