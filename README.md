@@ -1,6 +1,6 @@
 # CMIS-232
-All code is written in C#
+* All code is written in C#
 
-Refer to Wiki for Lab instructions
+* Refer to Wiki for Lab instructions
 
-Used for Educational Purposes
+* Used for Educational Purposes
